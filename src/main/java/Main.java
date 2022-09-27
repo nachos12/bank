@@ -1,5 +1,3 @@
-package org.example;
-
 import bank.Client.Client;
 import bank.Compte.CompteASeuil;
 import bank.Compte.CompteASeuilRemunere;
